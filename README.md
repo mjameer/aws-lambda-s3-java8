@@ -19,7 +19,7 @@ Follow the below instructions to get started with the source code:
 
 - [Why Spring Boot is not Recommended for Lambda](https://www.reddit.com/r/java/comments/y4kuvr/is_anyone_using_java_spring_boot_in_aws_lambda/)
 - [AWS Lambda Example YT 1](https://www.youtube.com/watch?v=3oV4Nj_ruOA)
-- [AWS Lambda Example YT 2]([https://www.youtube.com/watch?v=3oV4Nj_ruOA](https://www.youtube.com/watch?v=wk8Lk8R7Pck&t=3s))
+- [AWS Lambda Example YT 2](https://www.youtube.com/watch?v=3oV4Nj_ruOA)
 
 
 ## Dependencies
